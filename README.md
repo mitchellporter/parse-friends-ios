@@ -4,7 +4,7 @@ parse-friends-ios
 This iOS "app" was built to show you how to add and remove friend relationships, for both the currently logged in user
 and the friend being added, when using Parse.com as a BaaS.
 
-This app is not really a fully functional app at all. You should not try to build and run this app. 
+This app is not really a fully functional app at all. You should not try to build and run this app as there is no point.
 
 It was built as a quick example to show how you can implement the special friend relationship functionality that is made
 possible by using my custom Parse Cloud Code file. This file can be found in my [friends-relation-parse-cloud-code repo](https://github.com/mitchellporter/friends-relation-parse-cloud-code).
