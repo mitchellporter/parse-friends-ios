@@ -9,7 +9,7 @@ This app is not really a fully functioning app at all. You should not try to bui
 It was built as a quick example to show how you can implement the special friend relationship functionality that is made
 possible by using my custom Parse Cloud Code file. This file can be found in my [friends-relation-parse-cloud-code repo](https://github.com/mitchellporter/friends-relation-parse-cloud-code).
 
-Simply download this repo, open the project in xcode, and view the MPViewController.m file.
+Simply download this repo, open the project in `Xcode`, and view the `MPViewController.m` file.
 
 Pragma marks and comments have been added to easily explain what is going on in the code.
 
