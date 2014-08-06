@@ -1,7 +1,7 @@
 parse-friends-ios
 =================
 
-This "app" was built to show you how to add and remove friend relationships, for both the currently logged in user
+This iOS "app" was built to show you how to add and remove friend relationships, for both the currently logged in user
 and the friend being added, when using Parse.com as a BaaS.
 
 This app is not really a fully functioning app at all. You should not try to build and run this app. 
